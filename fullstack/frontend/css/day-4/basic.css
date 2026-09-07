@@ -7,3 +7,13 @@ button{
     color: black;
     background-color: white;
 }
+h4{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+}
+p{
+    line-height: 2.5;
+    letter-spacing: 5px;
+}
